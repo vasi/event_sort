@@ -1,0 +1,8 @@
+name = Event sorting
+description = Sort events in a custom order.
+package = Views
+core = 7.x
+
+dependencies[] = views
+
+files[] = views/handlers/event_sort_handler_sort.inc
